@@ -1,12 +1,13 @@
 title: 小虎王的Pages
 description: 个人使用的网址导航网站
-theme: minima
-
+# theme: minima   # 把这行注释掉或删掉
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme   # 添加这个插件
 # 主题颜色方案
 minima:
   skin: auto
-
+# 顶部导航栏
 header_pages:
   - nav.md
   - ai.md
-  
