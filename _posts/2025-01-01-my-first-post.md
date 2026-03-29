@@ -2,7 +2,7 @@
 layout: post
 title: "我的第一篇博客"
 date: 2025-01-01
-categories: 随笔
+categories: blogpost
 ---
 
 欢迎来到我的博客！  
