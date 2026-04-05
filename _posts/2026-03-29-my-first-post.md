@@ -2,7 +2,6 @@
 layout: post
 title: "我的第一篇博客"
 date: 2026-03-29
-categories: blogpost
 ---
 
 这是跟着教程创建的gitpage的产物啦，虽然 2017-10-13 就创建了，但是直到 2026-03-29 才终于在 Deepseek 的指导下，配置好相关设定。
