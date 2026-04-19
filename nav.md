@@ -12,7 +12,7 @@ permalink: /nav/
 
 旁门左道 PPT 整理的导航网站 [https://www.goto-mars.com/people/aLYqyNvYvd](https://www.goto-mars.com/people/aLYqyNvYvd)
 
-# 云文档、云笔记【跨设备编辑文档】
+## 云文档、云笔记【跨设备编辑文档】
 
 金山文档 [https://www.kdocs.cn/welcome](https://www.kdocs.cn/welcome)
 
@@ -25,7 +25,7 @@ Simplenote [https://simplenote.com/](https://simplenote.com/) 只支持纯文本
 为什么不用飞书？因为许多功能都要安装客户端才可以使用，太麻烦了。  
 Flomo 浮墨笔记，纯笔记的，但是可以添加图片，对标签的支持比较完善（二级标签、关联等功能），不好用，编辑入口很繁琐。
 
-# 邮箱【记得每周都要查看邮件哦】
+## 邮箱【记得每周都要查看邮件哦】
 
 网易邮箱 [https://email.163.com/](https://email.163.com/)
 
@@ -35,7 +35,7 @@ Outlook [https://outlook.com/](https://outlook.com/)
 
 新浪邮箱 [https://mail.sina.com.cn/](https://mail.sina.com.cn/) （可以先登录网页版微博，再打开邮箱）
 
-# 网盘【定期清理转存的文件】
+## 网盘【定期清理转存的文件】
 
 百度网盘 [https://pan.baidu.com/](https://pan.baidu.com/)
 
@@ -55,12 +55,9 @@ Outlook [https://outlook.com/](https://outlook.com/)
 
 Onedrive（下载页面） [https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download](https://www.microsoft.com/zh-cn/microsoft-365/onedrive/download)
 
+## 娱乐
 
-
-# 娱乐
 微博 [https://weibo.com/](https://weibo.com/)
-
-
 
 bilibili 视频网站 [https://www.bilibili.com/](https://www.bilibili.com/)
 
@@ -72,8 +69,6 @@ bilibili 视频网站 [https://www.bilibili.com/](https://www.bilibili.com/)
 
 网络诊断： [https://www.bilibili.com/blackboard/diagnostics.html](https://www.bilibili.com/blackboard/diagnostics.html) 好用推荐
 
-
-
 抖音 https://www.douyin.com/ 必须用手机 app 扫码才能用，取消链接
 
 小红书 [https://www.xiaohongshu.com/explore](https://www.xiaohongshu.com/explore)
@@ -84,7 +79,8 @@ bilibili 视频网站 [https://www.bilibili.com/](https://www.bilibili.com/)
 
 找台词网 [http://www.zhaotaici.cn/](http://www.zhaotaici.cn/) 做 PPT 的时候可以用
 
-# 手机相关的
+## 手机相关的
+
 安卓必备Kiwi浏览器（下载、扩展等） [https://kiwi.echs.top/](https://kiwi.echs.top/)
 
 安卓手机定制版APK [https://gitee.com/ww3w/dzb/](https://gitee.com/ww3w/dzb/)
@@ -98,6 +94,7 @@ Via浏览器可以用的脚本 [https://gitee.com/half-dream-half-wake/script-sh
 [谷歌拼音输入法（非官方收集站）](https://googlepinyin.com/)
 
 ## 安卓开源阅读相关
+
 阅读官网（下载app） [https://gedoor.github.io/](https://gedoor.github.io/)
 
 阅读书源 [https://yd.mgz6.cc/](https://yd.mgz6.cc/)
@@ -108,34 +105,29 @@ Via浏览器可以用的脚本 [https://gitee.com/half-dream-half-wake/script-sh
 
 iOS设备使用：有度 ，自己搜索一下吧。
 
-
-
 ## Tvbox点播影视
+
 本体下载 [https://github.com/o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC)
 
 鸭先知整理的接口 [https://www.yxzhi.com/9257.html](https://www.yxzhi.com/9257.html)
 
 硬核指南整理的 [https://yinghe.app/tvbox-zhiboyuan/](https://yinghe.app/tvbox-zhiboyuan/)
 
-
-
 ## My-TV电视直播
-官网 [https://lyrics.run/my-tv.html](https://lyrics.run/my-tv.html)
 
-备用 [https://gitee.com/lizongying/my-tv](https://gitee.com/lizongying/my-tv)
+My-TV 官网 [https://lyrics.run/my-tv.html](https://lyrics.run/my-tv.html) （目前已无法使用）
 
 仓库 [https://github.com/lizongying/my-tv](https://github.com/lizongying/my-tv)
 
+[hxh19950701/WebViewTvLive: 使用 腾讯X5 WebView 开发的电视直播App](https://github.com/hxh19950701/WebViewTvLive) 推荐使用这个
 
+## 工具类
 
-# 工具类
 PP直连（传文件） [https://www.ppzhilian.com/](https://www.ppzhilian.com/)
 
 天津联通宽带测速 [http://adsl.online.tj.cn/](http://adsl.online.tj.cn/) 2024 年 8 月份开始就打不开了
 
 QQ浏览器帮小忙 [https://tool.browser.qq.com/](https://tool.browser.qq.com/)
-
-
 
 查看自己的IP地址 [https://ipcheck.ing/](https://ipcheck.ing/)
 
@@ -147,8 +139,6 @@ QQ浏览器帮小忙 [https://tool.browser.qq.com/](https://tool.browser.qq.com/
 
 看看自己是不是联网了 2 号 [http://neverssl.com/](http://neverssl.com/)
 
-
-
 PDF处理工具 pdf24 [https://tools.pdf24.org/zh/](https://tools.pdf24.org/zh/)
 
 在线文本差异对比 [https://www.jq22.com/textDifference](https://www.jq22.com/textDifference)
@@ -157,18 +147,16 @@ PDF处理工具 pdf24 [https://tools.pdf24.org/zh/](https://tools.pdf24.org/zh/)
 
 Word正则工具 [https://meta.appinn.net/t/topic/33995](https://meta.appinn.net/t/topic/33995)
 
+## Windows 安全软件
 
-
-# Windows 安全软件
 奇安信专杀工具（很好用） [https://www.qianxin.com/other/qaxvirusremoval](https://www.qianxin.com/other/qaxvirusremoval)
 
 火绒专杀（偶尔用） [https://bbs.huorong.cn/thread-18575-1-1.html](https://bbs.huorong.cn/thread-18575-1-1.html)
 
 360系统急救箱（轻易别用，但是遇到大麻烦的时候就用它，又快又厉害） [https://weishi.360.cn/jijiuxiang/index.html](https://weishi.360.cn/jijiuxiang/index.html)
 
+## 多媒体类小工具
 
-
-# 多媒体类小工具
 改图宝 [https://www.gaitubao.com/](https://www.gaitubao.com/)
 
 图片放大 [https://bigjpg.com/](https://bigjpg.com/)
@@ -178,4 +166,3 @@ Word正则工具 [https://meta.appinn.net/t/topic/33995](https://meta.appinn.net
 在线转换视频、提取、合并等 [https://ffmpeg.bmmmd.com/](https://ffmpeg.bmmmd.com/)
 
 微信公众号视频下载[https://www.15um.com/tools/weixin_v.php](https://www.15um.com/tools/weixin_v.php)
-
