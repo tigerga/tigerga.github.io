@@ -63,13 +63,13 @@ bilibili 视频网站 [https://www.bilibili.com/](https://www.bilibili.com/)
 
 稍后再看 [https://www.bilibili.com/watchlater/list](https://www.bilibili.com/watchlater/list)
 
-测速工具：[https://www.bilibili.com/blackboard/video-diagnostics.html](https://www.bilibili.com/blackboard/video-diagnostics.html) 
+测速工具：[https://www.bilibili.com/blackboard/video-diagnostics.html](https://www.bilibili.com/blackboard/video-diagnostics.html)
 
 [https://www.bilibili.com/blackboard/app-speed-test.html](https://www.bilibili.com/blackboard/app-speed-test.html)
 
 网络诊断： [https://www.bilibili.com/blackboard/diagnostics.html](https://www.bilibili.com/blackboard/diagnostics.html) 好用推荐
 
-抖音 https://www.douyin.com/ 必须用手机 app 扫码才能用，取消链接
+[抖音](https://www.douyin.com/) 必须用手机 app 扫码才能登录。
 
 小红书 [https://www.xiaohongshu.com/explore](https://www.xiaohongshu.com/explore)
 
