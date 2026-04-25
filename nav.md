@@ -81,17 +81,11 @@ bilibili 视频网站 [https://www.bilibili.com/](https://www.bilibili.com/)
 
 ## 手机相关的
 
-安卓必备Kiwi浏览器（下载、扩展等） [https://kiwi.echs.top/](https://kiwi.echs.top/)
-
 安卓手机定制版APK [https://gitee.com/ww3w/dzb/](https://gitee.com/ww3w/dzb/)
 
 Via浏览器可以用的脚本 [https://gitee.com/half-dream-half-wake/script-share](https://gitee.com/half-dream-half-wake/script-share)
 
 玩手机必备的 [https://jamcz.com/](https://jamcz.com/)
-
-谷歌拼音输入法（非官方收集站）
-
-[谷歌拼音输入法（非官方收集站）](https://googlepinyin.com/)
 
 ## 安卓开源阅读相关
 
@@ -104,6 +98,8 @@ Via浏览器可以用的脚本 [https://gitee.com/half-dream-half-wake/script-sh
 阅读资源合集 [https://item.ink/archives/yckceo.html](https://item.ink/archives/yckceo.html)
 
 iOS设备使用：有度 ，自己搜索一下吧。
+
+[GitHub - HapeLee/legado-with-MD3: 使用 Material Design 3 全新设计的阅读 3.0 · GitHub](https://github.com/HapeLee/legado-with-MD3)
 
 ## Tvbox点播影视
 
