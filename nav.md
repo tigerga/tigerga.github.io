@@ -10,6 +10,9 @@ permalink: /nav/
 
 目前是第三代啦（第一代是简书，第二代是语雀），第三代以 Github Pages 为基础，能够更加灵活、快速的更新，以此页面为总导航页（不超过3屏），然后各分类导航页之间跳转不超过3个链接就要找到你需要的网址！
 
+* 目录
+{:toc}
+
 旁门左道 PPT 整理的导航网站 [https://www.goto-mars.com/people/aLYqyNvYvd](https://www.goto-mars.com/people/aLYqyNvYvd)
 
 ## 云文档、云笔记【跨设备编辑文档】

@@ -1,6 +1,10 @@
 title: 小虎王的Pages
 description: 小虎王强壮、聪明又可爱！  # 会出现在每个页面最下方。
 # theme: minima   # 把这行注释掉或删掉
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: 2..3
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme   # 添加这个插件
