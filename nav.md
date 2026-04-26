@@ -90,6 +90,10 @@ Via浏览器可以用的脚本 [https://gitee.com/half-dream-half-wake/script-sh
 
 玩手机必备的 [https://jamcz.com/](https://jamcz.com/)
 
+[手机账户管理（需要Shizuku）](https://github.com/iamr0s/AndroidAccounts)
+
+[shttps Releases](https://shttps.phlox.dev/releases/) 手机本地小巧的http服务器，适合托管html文件
+
 ## 安卓开源阅读相关
 
 阅读官网（下载app） [https://gedoor.github.io/](https://gedoor.github.io/)
@@ -111,6 +115,8 @@ iOS设备使用：有度 ，自己搜索一下吧。
 鸭先知整理的接口 [https://www.yxzhi.com/9257.html](https://www.yxzhi.com/9257.html)
 
 硬核指南整理的 [https://yinghe.app/tvbox-zhiboyuan/](https://yinghe.app/tvbox-zhiboyuan/)
+
+[TVBOX客户端与源 | MarkdownPaste - Free Markdown Editor](https://www.markdownpaste.com/document/tvbox)
 
 ## My-TV电视直播
 
