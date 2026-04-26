@@ -116,7 +116,7 @@ iOS设备使用：有度 ，自己搜索一下吧。
 
 硬核指南整理的 [https://yinghe.app/tvbox-zhiboyuan/](https://yinghe.app/tvbox-zhiboyuan/)
 
-[TVBOX客户端与源 | MarkdownPaste - Free Markdown Editor](https://www.markdownpaste.com/document/tvbox)
+[TVBOX客户端与源](https://www.markdownpaste.com/document/tvbox)
 
 ## My-TV电视直播
 
