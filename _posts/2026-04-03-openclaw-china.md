@@ -41,6 +41,9 @@ date: 2026-04-03
 [JVS Claw](https://jvs.wuying.aliyun.com/)
 阿里的，目前只提供 Mac 版的，但是也提供了云端部署。
 
+[煎蛋侠 - 开箱即用的 AI 桌面助手 | 你的智能数字分身](https://jiandan.amap.com/)
+高德地图出的，目前有 Windows 与 Mac 版。
+
 ## 云端龙虾
 
 ### 各类云服务厂商的

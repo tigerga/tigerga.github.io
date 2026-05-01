@@ -86,6 +86,8 @@ bilibili 视频网站 [https://www.bilibili.com/](https://www.bilibili.com/)
 
 安卓手机定制版APK [https://gitee.com/ww3w/dzb/](https://gitee.com/ww3w/dzb/)
 
+[Android 高德地图 Google Play 版和定制版-火哥分享](https://www.firepx.com/app/autonavi-minimap-google-play-and-other-version/)
+
 Via浏览器可以用的脚本 [https://gitee.com/half-dream-half-wake/script-share](https://gitee.com/half-dream-half-wake/script-share)
 
 玩手机必备的 [https://jamcz.com/](https://jamcz.com/)
@@ -93,6 +95,8 @@ Via浏览器可以用的脚本 [https://gitee.com/half-dream-half-wake/script-sh
 [手机账户管理（需要Shizuku）](https://github.com/iamr0s/AndroidAccounts)
 
 [shttps Releases](https://shttps.phlox.dev/releases/) 手机本地小巧的http服务器，适合托管html文件
+
+[手机词典文件下载](https://downloads.freemdict.com/)
 
 ## 安卓开源阅读相关
 
